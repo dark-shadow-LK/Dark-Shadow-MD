@@ -8,14 +8,14 @@ pnix({
   'fromMe': isPrivate,
   'type': 'main'
 }, async (_0x3eb68d, _0x3be952) => {
-  const _0x554062 = await getBuffer("https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg");
+  const _0x554062 = await getBuffer("https://telegra.ph/file/1ece2e0281513c05d20ee.jpg");
   const _0x19f988 = {
     'title': "I'm Alive Now",
-    'body': "Bmw-𝙼𝙳",
+    'body': "Dark_Shadow-𝙼𝙳",
     'thumbnail': _0x554062,
     'mediaType': 0x1,
     'mediaUrl': "https://i.imgur.com/6jdTPZz.mp4",
-    'sourceUrl': "https://github.com/AbhishekSuresh2/Phoenix-MD",
+    'sourceUrl': "https://github.com/dark-shadow-LK/Dark-Shadow-MD",
     'showAdAttribution': false,
     'renderLargerThumbnail': false
   };
