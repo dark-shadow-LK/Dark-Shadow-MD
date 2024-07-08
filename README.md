@@ -15,12 +15,12 @@
 
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/1ece2e0281513c05d20ee.jpg" alt="01" border="0" /></a>                     
-<a>https://session47-01797522ebe4.herokuapp.com/<img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a>/<img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SESSION SITE 
 
 </p>
 
-<a href=""><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://session47-01797522ebe4.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🧧 🧧 🧧 🧧
